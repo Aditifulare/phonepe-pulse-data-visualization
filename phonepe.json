@@ -1,0 +1,18 @@
+{
+  "name": "PhonePe Pulse Dark",
+  "dataColors": [
+    "#5F259F", "#00BAF2", "#F7B731",
+    "#3DD98A", "#E040FB", "#FF6B6B",
+    "#9B59B6", "#FF9800"
+  ],
+  "background": "#0D0020",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#5F259F",
+  "visualStyles": {
+    "*": { "*": {
+      "background": [{ "color": { "solid": { "color": "#1E0038" } } }],
+      "border": [{ "color": { "solid": { "color": "#5F259F" } } }],
+      "fontColor": [{ "color": { "solid": { "color": "#FFFFFF" } } }]
+    }}
+  }
+}
